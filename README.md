@@ -8,7 +8,7 @@ A tool to calculate how healthy a person is using a machine learning algorithm, 
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/pratikyuvrajchougule/health-and-lifestyle-data-for-regression)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Regression-Healthy-Score-Test/blob/3fecb836838cc70bf206be135b22b514e57f3a50/Health%20Prediction.ipynb)
-- To test the model please visit [this link]([https://findcustomercluster.streamlit.app/](https://healthytest.streamlit.app/))
+- To test the model please visit [this link](https://healthytest.streamlit.app/)
 - Use this data to test the model:
     - Age: 20
     - Mass (Kilograms): 70
