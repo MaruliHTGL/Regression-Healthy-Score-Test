@@ -79,7 +79,6 @@ def run_ml_app():
 
     scaling = load_scaler("scaling.pkl")    
     scaling_array = scaling.transform(single_array)
-    st.write(scaling_array)
 
     model = load_model("model_xgb.pkl")  
     prediction = model.predict(scaling_array)
