@@ -1,13 +1,13 @@
 # Regression: Healthy Score Test
 
 <p style='text-align: justify;'>
-A tool to calculate how healthy a person is using a machine learning algorithm, XGBoost with an R2 score of 83%. The most influential parameters are diet quality.
+A tool to calculate how healthy a person is using a machine learning algorithm, XGBoost with an R2 score of 83%. The most influential parameters are diet quality, BMI, sleep hours, and exercise frequency.
 </p>
 
 <br>
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/pratikyuvrajchougule/health-and-lifestyle-data-for-regression)
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Multiclass-Classification-Customer-Segmentation/blob/bb1a96af1d1d961cf6005e587fc5ed224ebbaca0/Clustering%20and%20Multiclass%20Classification.ipynb)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Regression-Healthy-Score-Test/blob/3fecb836838cc70bf206be135b22b514e57f3a50/Health%20Prediction.ipynb)
 - To test the model please visit [this link]([https://findcustomercluster.streamlit.app/](https://healthytest.streamlit.app/))
 - Use this data to test the model:
     - Age: 20
